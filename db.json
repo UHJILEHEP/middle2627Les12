@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "users": [
         {
             "id": 1,
@@ -46,3 +47,24 @@
         }
     ]
 }
+=======
+  "users": [
+    {
+      "id": 5,
+      "name": "yjeyej",
+      "nickname": "ytjeytjte",
+      "photoUrl": "https://ek.ua/jpg_zoom1/1793947.jpg",
+      "balance": 100000000000000
+    }
+  ],
+  "products": [
+    {
+      "id": 5,
+      "title": "rqtrtqtre",
+      "description": "rqtrtrqhtjyj",
+      "price": 14269048431228,
+      "photoUrl": "https://ek.ua/jpg_zoom1/1793947.jpg"
+    }
+  ]
+}
+>>>>>>> f5d9e897987c3ef0f1a73f8b47927e19a0d72161
