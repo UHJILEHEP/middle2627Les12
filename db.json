@@ -1,34 +1,20 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "name": "Ivan",
-            "nickname": "UHJILEHEP",
-            "photoUrl": "https://avatars.githubusercontent.com/u/121768593?s=400&u=11edfb66bda786c4cf603fb2c7910a343a5aac2b&v=4",
-            "balance": 10000
-        },
-        {
-            "id":2,
-            "name": "Makar",
-            "surname":"makaroshka",
-            "photo_url":"https://avatars.githubusercontent.com/u/152212618?v=4",
-            "balance":228
-        }
-    ],
-    "products": [
-        {
-            "id": 1,
-            "title": "Samsung s26",
-            "description": "Very good product, just buy it!",
-            "price": 45000,
-            "photoUrl": "https://content.rozetka.com.ua/goods/images/big/653660344.jpg"
-        },
-        {
-            "id": 2,
-            "title": "vivo X300 Ultra",
-            "description": "viva plesen`",
-            "price": 75000,
-            "photoUrl": "https://img.justbuy.work/products/f3d5ce51-e153-49d1-bb97-fe1ef0b27d49/image1image-1-53de2426.png"
-        }
-    ]
+  "users": [
+    {
+      "id": 5,
+      "name": "yjeyej",
+      "nickname": "ytjeytjte",
+      "photoUrl": "https://ek.ua/jpg_zoom1/1793947.jpg",
+      "balance": 100000000000000
+    }
+  ],
+  "products": [
+    {
+      "id": 5,
+      "title": "rqtrtqtre",
+      "description": "rqtrtrqhtjyj",
+      "price": 14269048431228,
+      "photoUrl": "https://ek.ua/jpg_zoom1/1793947.jpg"
+    }
+  ]
 }
