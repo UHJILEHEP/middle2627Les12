@@ -22,6 +22,13 @@
             "description": "Very good product, just buy it!",
             "price": 45000,
             "photoUrl": "https://content.rozetka.com.ua/goods/images/big/653660344.jpg"
+        },
+        {
+            "id": 2,
+            "title": "vivo X300 Ultra",
+            "description": "viva plesen`",
+            "price": 75000,
+            "photoUrl": "https://img.justbuy.work/products/f3d5ce51-e153-49d1-bb97-fe1ef0b27d49/image1image-1-53de2426.png"
         }
     ]
 }
