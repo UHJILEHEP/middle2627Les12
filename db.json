@@ -1,0 +1,11 @@
+{
+    "users":[
+        {
+            "id": 1,
+            "name": "Ivan",
+            "nickname": "UHJILEHEP",
+            "photoUrl": "https://avatars.githubusercontent.com/u/121768593?s=400&u=11edfb66bda786c4cf603fb2c7910a343a5aac2b&v=4",
+            "balance": 10000
+        }
+    ]
+}
