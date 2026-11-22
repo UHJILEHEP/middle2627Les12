@@ -17,6 +17,7 @@
     ],
     "products": [
         {
+            "id": 1,
             "title": "Samsung s26",
             "description": "Very good product, just buy it!",
             "price": 45000,
