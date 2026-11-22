@@ -13,6 +13,13 @@
             "surname":"makaroshka",
             "photo_url":"https://avatars.githubusercontent.com/u/152212618?v=4",
             "balance":228
+        },
+        {
+            "id":3,
+            "name": "Egor",
+            "surname":"Kozmenko",
+            "photo_url":"https://avatars.githubusercontent.com/u/351141403?v=4&size=64",
+            "balance":0
         }
     ],
     "products": [
@@ -29,6 +36,13 @@
             "description": "viva plesen`",
             "price": 75000,
             "photoUrl": "https://img.justbuy.work/products/f3d5ce51-e153-49d1-bb97-fe1ef0b27d49/image1image-1-53de2426.png"
+        },
+        {
+            "id": 3,
+            "title": "Samsung A56",
+            "description": "Very good product, just buy it!",
+            "price": 35500,
+            "photoUrl": "https://content1.rozetka.com.ua/goods/images/big/681379484.jpg"
         }
     ]
 }
