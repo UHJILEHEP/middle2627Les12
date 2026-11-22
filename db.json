@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
     "users": [
         {
             "id": 1,
@@ -21,6 +20,13 @@
             "surname":"Kozmenko",
             "photo_url":"https://avatars.githubusercontent.com/u/351141403?v=4&size=64",
             "balance":0
+        },
+        {
+            "id": 5,
+            "name": "yjeyej",
+            "nickname": "ytjeytjte",
+            "photoUrl": "https://ek.ua/jpg_zoom1/1793947.jpg",
+            "balance": 100000000000000
         }
     ],
     "products": [
@@ -44,27 +50,13 @@
             "description": "Very good product, just buy it!",
             "price": 35500,
             "photoUrl": "https://content1.rozetka.com.ua/goods/images/big/681379484.jpg"
+        },
+        {
+            "id": 5,
+            "title": "rqtrtqtre",
+            "description": "rqtrtrqhtjyj",
+            "price": 14269048431228,
+            "photoUrl": "https://ek.ua/jpg_zoom1/1793947.jpg"
         }
     ]
 }
-=======
-  "users": [
-    {
-      "id": 5,
-      "name": "yjeyej",
-      "nickname": "ytjeytjte",
-      "photoUrl": "https://ek.ua/jpg_zoom1/1793947.jpg",
-      "balance": 100000000000000
-    }
-  ],
-  "products": [
-    {
-      "id": 5,
-      "title": "rqtrtqtre",
-      "description": "rqtrtrqhtjyj",
-      "price": 14269048431228,
-      "photoUrl": "https://ek.ua/jpg_zoom1/1793947.jpg"
-    }
-  ]
-}
->>>>>>> f5d9e897987c3ef0f1a73f8b47927e19a0d72161
